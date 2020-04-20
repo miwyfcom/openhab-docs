@@ -85,3 +85,5 @@ defaults:
       type: addons_voices
     values:
       layout: addon
+
+theme: jekyll-theme-dinky
